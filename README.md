@@ -5,3 +5,7 @@ Identify which products or categories should be marketed more to increase sales 
 -Determine seasonal influence on the products. Which products are selling more in each season. 
 -Identifying which marketing tactics helps increase sales. 
 -Recommending the appropriate marketing tactics for ongoing trends in the consumer dataset based on the usage and selection of the products, by consumer segment, and season, with the goal of increasing sales. 
+
+Data Source- shopping trends.csv has been attached in the repository.
+https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
+
